@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#LFS
+git lfs track "*.tar.xz"
+
 # C extensions
 *.so
 
